@@ -6,10 +6,9 @@ SPRINT 2
 Physical Components Used :
 Esp32 Microcontroller
 
->>Dht22 Temperatue and Gas Sensor
+*Dht22 Temperatue and *Gas Sensor
 
 Digital Data (Random Data) :
+*Flame Sensor
 
->>Flame Sensor
-
->>Flow Sensor
+*Flow Sensor
