@@ -1,6 +1,6 @@
-SPRINT 1
+# SPRINT 1
 
-CHECK THE PROJECT
+# CHECK THE PROJECT
 
 Link https://wokwi.com/projects/348217684872135251
 
